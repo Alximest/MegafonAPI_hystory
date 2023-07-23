@@ -1,0 +1,15 @@
+# Ignore virtual environment folder
+venv/
+
+# Ignore save directories
+your_external_save_directory_here/
+your_internal_save_directory_here/
+
+# Ignore IDE-specific files and directories
+.vscode/
+
+# Ignore the SQLite database file
+user_number.db
+
+# Ignore the .env file (contains sensitive data)
+.env
